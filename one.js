@@ -1,1 +1,1 @@
-sup cuz
+module.exports = "no co jest";
