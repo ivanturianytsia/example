@@ -1,1 +1,1 @@
-module.exports = "no co jest";
+module.exports = "no co jest kur";
